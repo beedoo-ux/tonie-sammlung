@@ -1,0 +1,3 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #080c18; }
+select option { background: #0d1428; color: #e8eaf6; }
